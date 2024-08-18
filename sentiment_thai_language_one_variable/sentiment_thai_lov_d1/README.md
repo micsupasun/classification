@@ -16,5 +16,5 @@ The objective of this project is to build a sentiment analysis model specificall
 2. The final model was saved for deployment and can be integrated into applications that require sentiment analysis in the Thai language.
 
 ## Documentation
-1. sentiment_thai_one_variable.ipynb: A Jupyter notebook that contains the code for the entire sentiment analysis pipeline. It includes data loading, preprocessing, model training, evaluation, and saving the model. The notebook also demonstrates the usage of PythaiNLP and deepcut libraries for handling Thai text.
-2. sentiment_data_2.csv: Contains the dataset with Thai language comments.
+1. [sentiment_thai_one_variable.ipynb](https://github.com/micsupasun/classification/blob/main/sentiment_thai_language_one_variable/sentiment_thai_lov_d1/sentiment_thai_one_variable.ipynb): A Jupyter notebook that contains the code for the entire sentiment analysis pipeline. It includes data loading, preprocessing, model training, evaluation, and saving the model. The notebook also demonstrates the usage of PythaiNLP and deepcut libraries for handling Thai text.
+2. [sentiment_data_2.csv](https://github.com/micsupasun/classification/blob/main/sentiment_thai_language_one_variable/sentiment_thai_lov_d1/sentiment_data_2.csv): Contains the dataset with Thai language comments.

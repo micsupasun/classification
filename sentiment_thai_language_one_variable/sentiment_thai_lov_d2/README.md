@@ -15,7 +15,7 @@ The objective of this project is to develop a sentiment analysis model for the T
 - The model was deployed successfully and is capable of analyzing new Thai text inputs to predict their sentiment.
 
 ## Documentation
-1. sentiment_thai_one_variablev2.ipynb: This Jupyter notebook contains the code for training and evaluating the sentiment analysis model. It includes data loading, preprocessing, model training, evaluation, and potentially deployment steps.
-2. pos.txt: This file contains examples of Thai text that have been labeled as positive sentiment. It includes phrases and sentences that express positive emotions or opinions.
-3. neg.txt: This file contains examples of Thai text labeled as negative sentiment. It includes phrases and sentences that express negative emotions or opinions.
-4. neu.txt: This file contains examples of Thai text labeled as neutral sentiment. It includes phrases and sentences that do not clearly express positive or negative emotions.
+1. [sentiment_thai_one_variablev2.ipynb](https://github.com/micsupasun/classification/blob/main/sentiment_thai_language_one_variable/sentiment_thai_lov_d2/sentiment_thai_one_variablev2.ipynb): This Jupyter notebook contains the code for training and evaluating the sentiment analysis model. It includes data loading, preprocessing, model training, evaluation, and potentially deployment steps.
+2. [pos.txt](https://github.com/micsupasun/classification/blob/main/sentiment_thai_language_one_variable/sentiment_thai_lov_d2/pos.txt): This file contains examples of Thai text that have been labeled as positive sentiment. It includes phrases and sentences that express positive emotions or opinions.
+3. [neg.txt](https://github.com/micsupasun/classification/blob/main/sentiment_thai_language_one_variable/sentiment_thai_lov_d2/neg.txt): This file contains examples of Thai text labeled as negative sentiment. It includes phrases and sentences that express negative emotions or opinions.
+4. [neu.txt](https://github.com/micsupasun/classification/blob/main/sentiment_thai_language_one_variable/sentiment_thai_lov_d2/neu.txt): This file contains examples of Thai text labeled as neutral sentiment. It includes phrases and sentences that do not clearly express positive or negative emotions.
