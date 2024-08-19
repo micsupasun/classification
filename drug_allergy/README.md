@@ -14,7 +14,7 @@ The objective of this project is to develop a machine learning model to predict 
 The model demonstrated high recall on the training set, ensuring that potential allergic reactions were not missed. The use of mode imputation and KNN to handle missing data contributed to the model's performance. However, due to the small size of the validation set, further testing and cross-validation are recommended to confirm the model's robustness in real-world scenarios.
 
 ## Documentation
-1. DrugAllergyKaggle_v3_050720.csv: The dataset used for training and evaluating the model.
-2. ELISpot_result.png: Visual representation of a lab assay result used to validate model predictions.
-3. exam_1_code_answer.ipynb: The code implementation for data processing, model training, and evaluation.
-4. exercise_one_answer.docx: The report explaining the rationale, methodologies, and results of the project.
+1. [DrugAllergyKaggle_v3_050720.csv](https://github.com/micsupasun/classification/blob/main/drug_allergy/DrugAllergyKaggle_v3_050720.csv): The dataset used for training and evaluating the model.
+2. [ELISpot_result.png](https://github.com/micsupasun/classification/blob/main/drug_allergy/ELISpot_result.png): Visual representation of a lab assay result used to validate model predictions.
+3. [exam_1_code_answer.ipynb](https://github.com/micsupasun/classification/blob/main/drug_allergy/exam_1_code_answer.ipynb): The code implementation for data processing, model training, and evaluation.
+4. [exercise_one_answer.docx](https://github.com/micsupasun/classification/blob/main/drug_allergy/exercise_one_answer.docx): The report explaining the rationale, methodologies, and results of the project.
